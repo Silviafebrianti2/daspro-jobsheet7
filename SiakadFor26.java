@@ -17,6 +17,7 @@ public static void main(String[] args) {
     }
     System.out.println("Nilai tertinggi:" + tertinggi);
     System.out.println("Nilai terendah:" + terendah);
+    
     sc.close();
 }
     
